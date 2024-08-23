@@ -1,1 +1,1 @@
-# subdirctory
+# sub directory
